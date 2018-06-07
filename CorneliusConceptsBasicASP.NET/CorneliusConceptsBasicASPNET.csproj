@@ -1,6 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Company>Cornelius Concepts</Company>
+    <Authors>David Cornelius</Authors>
+    <Product>CorneliusConcepts.Online</Product>
+    <Copyright>Copyright 2018 by Cornelius Concepts</Copyright>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.8" />
