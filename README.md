@@ -5,4 +5,4 @@ This is nothing more than what comes with the basic project template in Visual S
 
 You can build this yourself using [Microsoft's tutorial](https://docs.microsoft.com/en-us/azure/app-service/) on setting up a new Web App in Azure in 5 minutes (*it's really that quick!*).
 
-You can see the published version of this site at [corneliusconceptsonline.azurewebsites.net](https://corneliusconceptsonline.azurewebsites.net/).
+_There was a published version of this site which has been taken down._
